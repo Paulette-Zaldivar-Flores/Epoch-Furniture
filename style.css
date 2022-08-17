@@ -207,9 +207,9 @@ img {
   align-items: start;
   justify-items: start;
   background-color: black;
-  padding: 40px;
   background-image: url("img/hero-epoch.png");
   background-size: auto 100%;
+  background-repeat: no-repeat;
 }
 
 h1 {
@@ -477,7 +477,7 @@ h4 {
   line-height: 1;
   font-size: 20rem;
   font-family: inherit;
-  color: var(--color-primary);
+  color: black;
   z-index: -1;
 }
 
@@ -496,7 +496,6 @@ h4 {
 .testimonial__author {
   margin-left: 3rem;
   font-style: normal;
-
   display: grid;
   grid-template-columns: 6.5rem 1fr;
   column-gap: 2rem;
