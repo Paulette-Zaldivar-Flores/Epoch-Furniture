@@ -1,6 +1,6 @@
 # Epoch-Furniture 🛋
 > Epoch Furniture is a webiste for a furniture company that allows the user to view products, view customer reviews and sign up for their newsletter.
-> Live demo [_here_](https://tabulate.netlify.app/).
+> Live demo [_here_](https://epoch-furniture.netlify.app/).
 
 ## Table of Contents
 * [General Info](#general-information)
