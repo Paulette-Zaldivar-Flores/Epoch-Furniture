@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Project Status](#project-status)
-* [Acknowledgements](#acknowledgements)
 * [Contact](#contact)
 
 
@@ -28,10 +27,6 @@
 Plan to make responsive with
 
  <ul> <li>Bootstrap</li></ul>
-  
-  
-
-
 
 
 ## Features
