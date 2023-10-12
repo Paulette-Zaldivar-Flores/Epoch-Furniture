@@ -12,7 +12,7 @@
 
 
 ## General Information
-<ul><li>The goal of this project was to develop a website for an imaginary furniture company that would give the user to have a better understanding of the producst available.</li></ul>
+<ul><li>The goal of this project was to develop a website for an imaginary furniture company that would give the user to have a better understanding of the products available.</li></ul>
 
 
 ## Technologies Used
